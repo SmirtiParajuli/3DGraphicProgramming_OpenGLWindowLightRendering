@@ -22,7 +22,7 @@ Functionality:
 
 3. Keyboard and Mouse Controls:
 
-    -> Camera Movement: Users can move the camera using the following keys:
+   -> Camera Movement: Users can move the camera using the following keys:
   	->'W' and 'S' control movement along the z-axis.
   	->'A' and 'D' control movement along the x-axis.
   	->'Q' and 'E' control movement along the y-axis.
@@ -56,4 +56,10 @@ Creating an Orthographic Camera | Game Engine series
 https://www.youtube.com/watch?v=NjKv-HWstxA&t=119s
 
 Spot Lights // OpenGL Tutorial #23 
-- https://www.youtube.com/watch?v=MAJqiDll0a8
+https://www.youtube.com/watch?v=MAJqiDll0a8
+
+Basic Lighting And Materials // OpenGL Tutorial #19
+https://www.youtube.com/watch?v=YnBhJbQZLuE
+
+Tutorial 12 - Lighting in OpenGL
+https://www.youtube.com/watch?v=gFZqzVQrw84
