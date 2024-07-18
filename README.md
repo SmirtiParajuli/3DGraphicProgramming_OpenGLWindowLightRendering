@@ -1,7 +1,7 @@
 OpenGL Window Rendering with Dynamic Features
 
 Developed using Visual Studio 2022, C++, and the OpenGL framework, this application delivers a vibrant graphical 
-presentation of diverse 3D geometries and Skybox , all powered by GLSL.
+presentation of diverse 3D geometries and Skybox, all powered by GLSL.
 
 Functionality:
 
@@ -16,9 +16,6 @@ Functionality:
 
   -> Sampling Anti-Aliasing (MSAA) is enabled.
   -> mouse scroll wheel for a zoom in and out.
-  -> Bouncing Text
-  -> Scrolling Text
-  -> Wrapping Text
 
 3. Keyboard and Mouse Controls:
 
@@ -28,24 +25,31 @@ Functionality:
   	->'Q' and 'E' control movement along the y-axis.
    
 4.Cursor Visibility:
- The left mouse button hides the cursor when pressed and reveals it upon release.
+ When pressed, the left mouse button hides the cursor and reveals it upon release.
 
-5.Display Mode:
+5. Display Mode:
  Press 'L' to toggle between wireframe mode and regular mode.
 
 7.Texture Toggling for the Light: 
+
 -> 1 key for the Point light On/Off
 -> 2 key for the Directional light On/Off
 -> 3 key for the Spot light On/Off
 
 8.Includes Dependencies:
+
  -> FREETYPE
+ 
  -> GLEW
+ 
  -> GLFW
+ 
  -> GLM
+ 
  -> STB
  
 Refrence:
+
 OpenGL Tutorial 7 - Going 3D
 https://www.youtube.com/watch?v=HiCVXEkkSK4
 
